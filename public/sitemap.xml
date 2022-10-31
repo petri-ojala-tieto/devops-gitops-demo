@@ -2,12 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://petri-ojala-tieto.github.io/devops-gitops-demo/hobbies-petri/</loc>
-    <lastmod>2022-10-31T14:15:37+02:00</lastmod>
-  </url><url>
     <loc>https://petri-ojala-tieto.github.io/devops-gitops-demo/categories/</loc>
   </url><url>
     <loc>https://petri-ojala-tieto.github.io/devops-gitops-demo/</loc>
+  </url><url>
+    <loc>https://petri-ojala-tieto.github.io/devops-gitops-demo/hobbies-petri/</loc>
   </url><url>
     <loc>https://petri-ojala-tieto.github.io/devops-gitops-demo/tags/</loc>
   </url>
