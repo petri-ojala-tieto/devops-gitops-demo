@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://petri-ojala-tieto.github.io/devops-gitops-demo/sitemap.xml
