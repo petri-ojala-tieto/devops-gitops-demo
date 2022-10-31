@@ -10,5 +10,15 @@
     <atom:link href="https://petri-ojala-tieto.github.io/devops-gitops-demo/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title></title>
+      <link>https://petri-ojala-tieto.github.io/devops-gitops-demo/petri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://petri-ojala-tieto.github.io/devops-gitops-demo/petri/</guid>
+      <description>&lt;p&gt;Petrin harrastukset&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
