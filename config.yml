@@ -1,23 +1,22 @@
 languageCode: "en-us"
 baseURL: https://petri-ojala-tieto.github.io/devops-gitops-demo/
-title: "Anubis"
+title: "Tietoevry DevOps/GitOps process playground"
 theme: "anubis"
 paginate: 10
-disqusShortname: "yourdiscussshortname"
 googleAnalytics: "G-12345"
 enableRobotsTXT: true
 
 menu:
   main:
-  - identifier: archive
-    name: Archive
-    title: Archive
-    url: /posts/
+  - identifier: All
+    name: All
+    title: All
+    url: /content/
     weight: 0
 
 params:
-  author: "John Doe"
-  email: mail@example.org # used for microformats
+  author: "Tietoevry"
+  email: petri.o.ojala@tietoevry.com 
   avatar: "/images/me.png" # used for microformats
   description: ""
   # Uncomment if you need this
@@ -27,7 +26,7 @@ params:
   #   - css/my.css # relative path to "assets" directory (don't use main.css filename)
   # customJS:
   #   - js/main.js # relative path to "assets" directory
-  dateFormat: "2006-01-02"
+  dateFormat: "01-02-2006"
   paginationSinglePost: true
   style: light-without-switcher
   readMore: false # show read more button

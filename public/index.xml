@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anubis</title>
+    <title>Tietoevry DevOps/GitOps process playground</title>
     <link>https://petri-ojala-tieto.github.io/devops-gitops-demo/</link>
-    <description>Anubis</description>
+    <description>Tietoevry DevOps/GitOps process playground</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     

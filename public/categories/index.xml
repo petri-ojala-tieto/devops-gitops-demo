@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Anubis</title>
+    <title>Categories on Tietoevry DevOps/GitOps process playground</title>
     <link>https://petri-ojala-tieto.github.io/devops-gitops-demo/categories/</link>
-    <description>Anubis (Categories)</description>
+    <description>Tietoevry DevOps/GitOps process playground (Categories)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
