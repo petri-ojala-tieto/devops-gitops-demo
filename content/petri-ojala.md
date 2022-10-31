@@ -1,4 +1,0 @@
-# Petri Ojala
-
-test
-
