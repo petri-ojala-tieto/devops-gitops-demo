@@ -1,5 +1,5 @@
 baseURL: "https://petri-ojala-tieto.github.io/devops-gitops-demo/"
-title: ExampleSite
+title: "DevOps/GitOps process demo"
 paginate: 5
 theme: PaperMod
 
@@ -16,22 +16,22 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  title: "DevOps/GitOps process demo"
+  description: "DevOps/GitOps process demo"
+  keywords: [DevOps, GitOps]
+  author: petri.o.ojala@tietoevry.com
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark # auto, dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
+  ShowShareButtons: false
+  ShowPostNavLinks: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -77,20 +77,12 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+    - name: WorkPlace
+      url: "https://tietoevry.workplace.com/"
+    - name: Hub
+      url: "https://tietoevry.sharepoint.com/"
 
   analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
