@@ -18,7 +18,7 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: "DevOps/GitOps process demo"
-    description: "DevOps/GitOps process demo"
+    description: "Tietoevry"
     keywords: [DevOps, GitOps, Tietoevry]
     author: Me
     # author: ["Me", "You"] # multiple authors
